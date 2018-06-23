@@ -22,7 +22,7 @@
   *제어프로그램선택
    - 아두이노에서 직접 구현하거나 Mablab_Simulink를 이용할지 선택한다. (호환성 등등) 
    
-
+---------------------------------
 
 
 1. 일정 
@@ -32,7 +32,7 @@
 *7월
  대회 트랙에 맞게 코딩 진행 
  
- 
+ ---------------------------------
  
 2. 부품 
 *플랫폼: 라즈베리파이 + 아두이노 or AtMega + 모터드라이버(l298n) + 1_모형자동차 세트(차체, DC모터, 서보모터) + 2_배터리 + 3_인코더 + 파이캠 및 센서들
@@ -40,6 +40,7 @@
 
 
 //ref
+
 1_모형자동차 세트: http://rclife.co.kr/product/product_detail.asp?product_number=99409
  -모터 사양: https://www.ebay.com/itm/DC-6v-12v-High-Speed-390-Motor-Large-Torque-Magnetic-For-RC-Car-Boat-Model-DIY-/121999326828
 2_배터리: https://hobbyking.com/en_us/turnigy-nano-tech-2200mah-3s-35-70c-lipo-pack.html
