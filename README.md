@@ -55,8 +55,12 @@
 //ref
 
 1_모형자동차 세트: http://rclife.co.kr/product/product_detail.asp?product_number=99409
- -모터 사양: https://www.ebay.com/itm/DC-6v-12v-High-Speed-390-Motor-Large-Torque-Magnetic-For-RC-Car-Boat-Model-DIY-/121999326828
+
+// -모터 사양: https://www.ebay.com/itm/DC-6v-12v-High-Speed-390-Motor-Large-Torque-Magnetic-For-RC-Car-Boat-Model-DIY-/121999326828
+
+
 2_배터리: https://hobbyking.com/en_us/turnigy-nano-tech-2200mah-3s-35-70c-lipo-pack.html
+
 3_인코더(미정): http://www.bestdada.com/goods_detail.php?gdIdx=3&goodsIdx=71
 
  
